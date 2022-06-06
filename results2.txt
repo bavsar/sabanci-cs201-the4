@@ -1,0 +1,14 @@
+1, 00012287, Onur Akdeniz, 83
+2, 00009029, Ali Akdeniz, 78.4
+3, 00009568, Inanc Arin, 75.6
+4, 00011464, Alper Aydin, 73.8
+5, 00009713, Ozge Karadeniz, 72.4
+6, 00010206, Gizem Gezici, 71.4
+7, 00011412, Yonca Karadeniz, 71
+8, 00011530, Burcu Aciksoz, 66.4
+9, 00010308, Burak Aygun, 66.4
+10, 00011013, Ceren Aydin, 65
+11, 00010926, Ekrem Aygunler, 63.8
+12, 00009962, Kubra Ak, 60.2
+13, 00011366, Yigit Akar, 54.6
+14, 00008963, Selcuk Akaydin, 20
